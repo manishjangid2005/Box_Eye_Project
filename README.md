@@ -6,7 +6,7 @@ It integrates **YOLOv8 (Deep Learning)** with a **Spring Boot backend** to ensur
 ---
 
 ## 🏗 System Architecture
-
+ 
 ```mermaid
 graph TD
     subgraph Edge_Layer["Edge Layer (Vision Engine)"]
